@@ -6,6 +6,10 @@
 
 it uses css `invert()` and `hue-rotate()` functions to change the look of your entire html document so It may gives unexpected changes .. in the next version there will be some more customization
 
+The theme switcher icon is used from [Adam Argyle](https://twitter.com/argyleink)'s [Article](https://web.dev/building-a-theme-switch-component/)
+
+- [**Demo**](https://gui-challenges.web.app/theme-switch/dist/) of icon
+
 ## Getting started
 
 This is a simple custom component, you only need to import it (or bu using external link), and add `<theme-toggle></theme-toggle>` custom element where you want to see the toggle button
