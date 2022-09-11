@@ -1,7 +1,11 @@
 {
   "name": "theme-toggle",
   "discription": "A simple theme (dark/light) toggle",
-  "version": "0.1.6",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CH4R4F/theme-toggle"
+  },
   "type": "module",
   "main": "./dist/theme-toggle.umd.cjs",
   "scripts": {
